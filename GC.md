@@ -47,7 +47,7 @@
 ![img_21.png](img_21.png)
 ![img_22.png](img_22.png)
 ![img_23.png](img_23.png)
-###CMS回收器：低延迟
+###CMS回收器：低延迟（jdk14删除）
     初始标记阶段：标记出GCRoots能够关联到的对象（stw）
     并发标记阶段：共GCRoots开始遍历整个对象图，耗时较长，但是不用停止用户线程。
     重新标记阶段：修正并发标记期间因用户线程继续运作而导致标记产生变动的那一部分对象的标记记录
@@ -55,6 +55,20 @@
 ![img_24.png](img_24.png)
 ![img_25.png](img_25.png)
 ![img_26.png](img_26.png)
+![img_27.png](img_27.png)
+![img_28.png](img_28.png)
+![img_29.png](img_29.png)
+###G1回收器：区域分代化
+    G1目标：在延迟可控的情况下，获得尽可能高的吞吐量
+![img_30.png](img_30.png)
+![img_31.png](img_31.png)
+![img_32.png](img_32.png)
+![img_33.png](img_33.png)
+![img_34.png](img_34.png)
+![img_35.png](img_35.png)
+![img_36.png](img_36.png)
+![img_37.png](img_37.png)
+![img_38.png](img_38.png)   
 
 
 
