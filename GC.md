@@ -72,7 +72,8 @@
 ###G1垃圾回收过程
 ![img_39.png](img_39.png)
 ![img_40.png](img_40.png)
-
+![img_41.png](img_41.png)
+![img_42.png](img_42.png)
 
 
     
