@@ -69,6 +69,9 @@
 ![img_36.png](img_36.png)
 ![img_37.png](img_37.png)
 ![img_38.png](img_38.png)   
+###G1垃圾回收过程
+![img_39.png](img_39.png)
+![img_40.png](img_40.png)
 
 
 
