@@ -74,6 +74,12 @@
 ![img_40.png](img_40.png)
 ![img_41.png](img_41.png)
 ![img_42.png](img_42.png)
+###垃圾回收器总结
+![img_39.png](img_39.png)
+###垃圾回收器选择
+![img_41.png](img_41.png)
+###GC日志分析
+![img_42.png](img_42.png)
 
 
     
